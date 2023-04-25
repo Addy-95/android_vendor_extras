@@ -12,7 +12,7 @@ PRODUCT_PACKAGES += \
     FontAclonicaOverlay \
     FontAmaranteOverlay \
     FontBariolOverlay \
-    FontBellotaSourceOverlay
+    FontBellotaSourceOverlay \
     FontCagliostroOverlay \
     FontCircularStdOverlay \
     FontCoconOverlay \
@@ -44,11 +44,11 @@ PRODUCT_PACKAGES += \
     FontProductSansVHOverlay \
     FontPoppinsSourceOverlay \
     FontQuandoOverlay \
-    FontRecursiveLinearOverlay
+    FontRecursiveLinearOverlay \
     FontRedressedOverlay \
     FontReemKufiOverlay \
     FontRobotoCondensedOverlay \
-    FontRobotoFlexOverlay
+    FontRobotoFlexOverlay \
     FontRobotoOverlay \
     FontRosemaryOverlay \
     FontRubikOverlay \
